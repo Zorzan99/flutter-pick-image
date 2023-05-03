@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "224521771745",
+    "project_id": "image-picker-2cb7f",
+    "storage_bucket": "image-picker-2cb7f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:224521771745:android:20f6677e2f86c853dfb5a0",
+        "android_client_info": {
+          "package_name": "com.example.testando"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "224521771745-5q3vb1esavkudqlvi8at2nbtp4jsadle.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbUlNiCmFVWwIYh1ELudbvnfq2KtiilZs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "224521771745-5q3vb1esavkudqlvi8at2nbtp4jsadle.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
