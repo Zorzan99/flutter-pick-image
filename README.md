@@ -1,1 +1,1 @@
-Modelo para pegar imagem da galeria 
+Modelo para pegar imagem da galeria.
